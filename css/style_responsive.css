@@ -1,0 +1,274 @@
+@media (max-width: 1200px){
+    /* ======= about ======= */
+    .aboutInfo p{
+        width: 80%;
+        text-indent: 2em;
+        font-size: 18px;
+        letter-spacing: .2rem;
+        line-height: 28px;
+    }
+    /* ======= build ======= */
+    .way{
+        width: 80%
+    }
+    .way2{
+        width: 80%
+    }
+    /* ======= business ======= */
+    .business_img{
+        width: 100%
+    }
+    .business_img img{
+        width: 70%
+    }
+    /* ======= coopreater ======= */
+    .icon{
+        width: 80%;
+    }
+    .coop_img img{
+        width: 70%;
+    }
+    /* ======= project ======= */
+    .swiper2 {
+        width: 85%;
+    }
+    .swiper2 img{
+        width: 50%;
+    }
+    .project_swiperSlide{
+        padding: 30px 0 0 0
+    }
+}
+
+@media (max-width: 900px){
+    /* ======= header ======= */
+    .navbar {
+        width: 100%
+    }
+    .navbar ul{
+        flex-grow: .5
+    }
+    /* ======= build ======= */
+    .way_process img{
+        width: 80%;
+    }
+    .way2_process img{
+        width: 80%;
+        height: 70%
+    }
+    /* ======= project ======= */
+    .swiper2 {
+        width: 85%;
+    }
+    .swiper2 img{
+        width: 50%;
+    }
+    .project_swiperSlide{
+        padding: 30px 0 0 0
+    }
+}
+@media (max-width: 830px){
+ /* =======  header =======*/
+ .navbar ul{
+    display: none
+}
+@media (max-width: 600px){
+    /* =======  header =======*/
+    .navbar ul{
+       display: none
+   }  
+   .title img{
+       display: none
+   }
+   .banner{
+       height: 18rem;
+   }
+   .aboutInfo p{
+        font-size: 15px
+   }
+   .swiper-slide {
+    /* font-size: 18px; */
+    padding: 140px 0 0 40px;
+  }
+   .swiper-slide .text {
+       font-size: 16px;
+       width: 600px;
+       line-height:20px;
+   }
+    .spantxt{
+        font-size: 17px
+    }
+    .swiper-slide .subtitle {
+      font-size: 20px;
+    }
+    /* ====== about ====== */
+    .aboutInfo p{
+        font-size: 15px
+    }
+   /* ====== build ====== */
+   .buildInfo p{
+    font-size: 15px
+    }
+   .build{
+    padding: 40px 0 0 0;
+   }
+   .way{
+    display: block
+    }
+    .way_txt p{
+        font-size: 15px
+    }
+    .way2{
+        display: block
+    }
+    .way2_txt p{
+        font-size: 15px
+    }
+    .buildImg img{
+        width: 300px;
+        text-align: center;
+    }
+   /* ======= project ======= */
+   .swiper2{
+       width: 85%;
+       margin:  0 0 0 0;
+       padding: 0 0 0 0
+   }
+    .project{
+       padding: 0 0 0 0;
+   }
+   .swiper2 img{
+       width: 60%;
+   }
+   .project_swiperSlide{
+       padding: 30px 0 0 0
+   }
+   /* ======= business ======= */
+    
+   .business{
+    padding: 20px 0 0 0;
+    }
+    .business_img{
+        width: 100%;
+        margin: 0 auto;
+        height: 250px;
+        overflow: auto;
+        margin: 50px 0 0 0; 
+    }
+      /* ======= contact ======= */
+      .form{
+        width: 300px;
+        padding: 20px  0 20px 0;
+        margin: 0 auto
+    }
+    .end p{
+        font-size: 10px
+    }
+}
+@media (max-width: 384px){
+    /* ======= pubilc ======= */
+    .title h2{
+        font-size: 20px
+    }    
+    .title img{
+        display: none
+    }
+    /* =======  header =======*/
+    /* .navbar ul{
+        display: none
+    } */
+    .banner{
+        height: 13rem;
+    }
+    .swiper-slide {
+        font-size: 18px;
+        padding: 120px 0 0 20px;
+      }
+    .spantxt{
+        font-size: 17px
+    }
+    .swiper-slide .subtitle {
+      font-size: 20px;
+    }
+    .swiper-slide .text {
+      font-size: 15px;
+      letter-spacing: .2em;
+      line-height:20px;
+    }
+    .btn1{
+        display: none
+    }
+    /* =======  about ======= */
+    .aboutInfo{
+        margin:  0 ;
+    }
+    .aboutInfo p{
+        font-size: 15px
+    }
+    /* =======  build ======= */
+    .buildInfo p{
+        font-size: 15px
+    }
+    .buildImg img{
+        width: 300px;
+        text-align: center;
+    }
+    .way{
+        display: block
+    }
+    .way_txt p{
+        font-size: 15px
+    }
+    .way2{
+        display: block
+    }
+    .way2_txt p{
+        font-size: 15px
+    }
+    /* ======= project ======= */
+    .swiper2{
+        width: 100%;
+        margin:  0 0 0 0;
+        padding: 0 0 0 0
+    }
+     .project{
+        padding: 0 0 0 0;
+    }
+    .swiper2 img{
+        width: 60%;
+    }
+    .project_swiperSlide{
+        padding: 30px 0 0 0
+    }
+    /* ======= contact ======= */
+    .form{
+        width: 300px;
+        padding: 20px  0 20px 0;
+        margin: 0 auto
+    }
+    .end p{
+        font-size: 10px
+    }
+    .contact{
+        padding: 40px 0 0 0;
+    }
+    /* ======= business ======= */
+    
+    .business{
+        padding: 20px 0 0 0;
+    }
+    .business_img{
+        width: 100%;
+        margin: 0 auto;
+        height: 250px;
+        overflow: auto;
+        margin: 50px 0 0 0; 
+    }
+    /* ======= coopreater ======= */
+    .icon{
+        padding: 20px 0 0 0;
+    }
+    .cooperation{
+        padding: 20px 0 0 0;
+    }
+}
